@@ -1,0 +1,20 @@
+{
+  "name": "code-for-fun",
+  "version": "1.0.0",
+  "description": "backend practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "express",
+    "nodejs"
+  ],
+  "author": "manikant",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
